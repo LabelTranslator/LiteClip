@@ -6,7 +6,8 @@ and saves a clip when you press a key.
 **[Download LiteClip.exe](https://github.com/LabelTranslator/LiteClip/releases/latest/download/LiteClip.exe)**,
 run it, click **Install**. That's it: no account, no admin rights.
 
-- **F8** saves a 720p clip, **Shift+F8** saves 1080p (change the keys in Settings)
+- **F8** saves a 720p clip, **Shift+F8** saves full quality. Add up to 6 hotkeys of your own in Settings, each with its own clip length
+- 60 or 120 fps, or match your monitor for the smoothest clips
 - Click the tray icon to open your clips: watch, trim on the timeline, pick game/mic audio, rename, star, sort, delete
 - **Copy for Discord** puts a small copy on your clipboard: paste it in Discord with Ctrl+V
 - **Get link** uploads a clip to a free file host and copies the link
